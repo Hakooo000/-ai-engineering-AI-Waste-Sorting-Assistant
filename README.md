@@ -1,1 +1,1 @@
-# -ai-engineering-AI-Waste-Sorting-Assistant
+# ai-engineering-AI-Waste-Sorting-Assistant
